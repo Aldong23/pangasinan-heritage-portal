@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[97367,["/pangasinan-heritage-portal/_next/static/chunks/ff1a16fafef87110.js","/pangasinan-heritage-portal/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"buildId":"5ZxAuxR1FQf2j-i1e_ED9","rsc":["$","$1","c",{"children":[["$","div",null,{"children":[["$","h1",null,{"children":"Register"}],["$","p",null,{"children":"Please fill out the form to create an account."}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"N4Q5GGnCY-szErNUr_pmg","rsc":["$","$1","c",{"children":[["$","div",null,{"children":[["$","h1",null,{"children":"Register"}],["$","p",null,{"children":"Please fill out the form to create an account."}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
 4:null
