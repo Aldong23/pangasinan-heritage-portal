@@ -1,0 +1,4 @@
+:HL["/pangasinan-heritage-portal/_next/static/chunks/384323e4406a046d.css","style"]
+:HL["images/icons/facebook.jpg","image"]
+:HL["images/icons/instagram.jpg","image"]
+0:{"buildId":"5ZxAuxR1FQf2j-i1e_ED9","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"(guest)","paramType":null,"paramKey":"(guest)","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
