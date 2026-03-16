@@ -1,4 +1,4 @@
 :HL["/pangasinan-heritage-portal/_next/static/chunks/384323e4406a046d.css","style"]
 :HL["images/icons/facebook.jpg","image"]
 :HL["images/icons/instagram.jpg","image"]
-0:{"buildId":"N4Q5GGnCY-szErNUr_pmg","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"(guest)","paramType":null,"paramKey":"(guest)","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"pO9EIbGO8lBHqBv_lKIgK","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"(guest)","paramType":null,"paramKey":"(guest)","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
