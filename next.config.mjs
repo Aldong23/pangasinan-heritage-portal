@@ -1,9 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  /* config options here */
   reactCompiler: true,
-  output: "export",
-  basePath: "/pangasinan-heritage-portal",
-  assetPrefix: "/pangasinan-heritage-portal/"
 };
 
 export default nextConfig;
