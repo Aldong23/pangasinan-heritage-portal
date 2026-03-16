@@ -56,7 +56,7 @@ export default function AboutPage() {
 
           <div className="relative h-[450px] rounded-2xl overflow-hidden shadow-2xl">
             <Image
-              src="/images/about-pangasinan.jpg"
+              src="./images/about-pangasinan.jpg"
               alt="Pangasinan Landscape"
               fill
               className="object-cover"

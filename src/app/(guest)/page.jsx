@@ -11,21 +11,21 @@ export default function HomePage() {
       location: "Alaminos City",
       description: "A sprawling archipelago of 124 islands offering white sands and limestone cliffs.",
       detailed: "Scattered like emeralds across the Lingayen Gulf, this national park is a geological marvel. Formed millions of years ago, these mushroom-shaped islands offer everything from secluded white-sand beaches to hidden caves and thriving coral reefs.",
-      img: "images/hundred-islands.jpg"
+      img: "./images/hundred-islands.jpg"
     },
     {
       title: "Cape Bolinao Lighthouse",
       location: "Bolinao",
       description: "A historic 1903 landmark standing tall over the West Philippine Sea.",
       detailed: "Perched atop Punta Piedra Point, this sentinel of the sea is the second tallest lighthouse in the Philippines. It has guided vessels for over a century, offering breathtaking panoramic views of the rugged coastline.",
-      img: "images/bolinao-lighthouse.jpg"
+      img: "./images/bolinao-lighthouse.jpg"
     },
     {
       title: "Balungao Hotspring",
       location: "Balungao",
       description: "Relaxing volcanic springs nestled at the foot of Mount Balungao.",
       detailed: "Located at the base of an extinct volcano, these therapeutic alkaline springs are famed for their healing properties. Surrounded by lush greenery, the resort balances relaxation with adventure.",
-      img: "images/balungao-hotspring.jpg"
+      img: "./images/balungao-hotspring.jpg"
     }
   ];
 

@@ -14,7 +14,7 @@ export default function DestinationsPage() {
       tag: "Adventure",
       description: "A world-renowned archipelago of 124 islands (123 at high tide) scattered across the turquoise waters of the Lingayen Gulf.",
       features: ["Island Hopping", "Ziplining", "Helmet Diving", "Kayaking"],
-      img: "/images/hundred-islands1.jpg",
+      img: "./images/hundred-islands1.jpg",
     },
     {
       id: "bolinao-lighthouse",
@@ -23,7 +23,7 @@ export default function DestinationsPage() {
       tag: "History",
       description: "Standing atop Punta Piedra Point, this historic sentinel has guided ships entering the West Philippine Sea since 1903.",
       features: ["Panoramic Views", "Historical Marker", "Sunset Photography", "Nearby Rock Formations"],
-      img: "/images/bolinao-lighthouse1.jpg",
+      img: "./images/bolinao-lighthouse1.jpg",
     },
     {
       id: "balungao-springs",
@@ -32,7 +32,7 @@ export default function DestinationsPage() {
       tag: "Wellness",
       description: "Nestled at the foot of Mount Balungao, these volcanic springs offer therapeutic waters ranging from steaming hot to refreshing cold.",
       features: ["Hot Springs", "Hilltop Adventure", "Mountain Trekking", "Longest Zipline"],
-      img: "/images/balungao-hotspring1.jpg",
+      img: "./images/balungao-hotspring1.jpg",
     }
   ];
 
