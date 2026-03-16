@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Define a custom variant for dark mode using a class */
+@custom-variant dark (&:where(.dark, .dark *)); 
+
+/* You can also use a data attribute, e.g., data-theme="dark" */
+/* @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *)); */
+
+@import "tailwindcss/theme";
